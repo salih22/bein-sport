@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,BeINSPORTS 1HD
+http://176.9.139.53/BeinSportHD1/index.m3u8
+#EXTINF:-1,BeINSPORTS 2HD
+http://176.9.139.53/BeinSportHD2/index.m3u8
+#EXTINF:-1,BeINSPORTS 3HD
+http://176.9.139.53/BeinSportHD3/index.m3u8
+#EXTINF:-1,BeINSPORTS 4HD
+http://176.9.139.53/BeinSportHD4/index.m3u8
+#EXTINF:-1,BeINSPORTS 5HD
+http://176.9.139.53/BeinSportHD5/index.m3u8
+#EXTINF:-1,BeINSPORTS 6HD
+http://176.9.139.53/BeinSportHD6/index.m3u8
+#EXTINF:-1,BeINSPORTS 7HD
+http://176.9.139.53/BeinSportHD7/index.m3u8
+#EXTINF:-1,BeINSPORTS 8HD
+http://176.9.139.53/BeinSportHD8/index.m3u8
+#EXTINF:-1,BeINSPORTS 9HD
+http://176.9.139.53/BeinSportHD9/index.m3u8
+#EXTINF:-1,BeINSPORTS 10HD
+http://176.9.139.53/BeinSportHD10/index.m3u8
+#EXTINF:-1,BeINSPORTS 11HD
+http://176.9.139.53/BeinSportHD11/index.m3u8
+#EXTINF:-1,beINSPORTS 12HD
+http://176.9.139.53/BeinSportHD12/index.m3u8
